@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource
+	
+		name = "notice"
+		auth = "Container"
+		type = "javax.sql.DataSource"
+		driverClassName = "com.mysql.jdbc.Driver"
+		url = "jdbc:mysql://localhost:3306/green_db?serverTimezone=Asia/Seoul&amp;characterEncoding=utf-8"
+		username = "green"
+		password = "123456"
+	/>
+
+</Context>
